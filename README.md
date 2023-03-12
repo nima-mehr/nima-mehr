@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://cdn.hackaday.io/images/5831471669163737979.jpg" width="100"/>
+  <img src="https://cdn.hackaday.io/images/5831471669163737979.jpg" />
 </div>
 <!--
 **nima-mehr/nima-mehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
