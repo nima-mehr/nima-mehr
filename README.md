@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+I'm a self-taught software and embedded developer
 <div id="header" align="center">
   <img src="https://cdn.hackaday.io/images/5831471669163737979.jpg" />
 </div>
