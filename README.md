@@ -2,7 +2,7 @@
 <div id="Header_and_info" align="left">
   - 🔭 I’m currently working on a Game and some Robots. </br>
   - 🌱 I’m currently learning data science and ML. </br>
-  - 📫 Reach me by https://linktr.ee/nimamehr </br>
+  - 📫 How to reach me: https://linktr.ee/nimamehr </br>
   - 😄 Pronouns: He/Him </br>
   - ⚡ Fun fact: I think too much </br>
 </br>
