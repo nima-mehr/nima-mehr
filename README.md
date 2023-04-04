@@ -4,7 +4,6 @@
   - 🌱 I’m currently learning data science and ML. </br>
   - 📫 How to reach me: https://linktr.ee/nimamehr </br>
   - 😄 Pronouns: He/Him </br>
-  - ⚡ Fun fact: I think too much </br>
 </br>
 <div id="Middle" align="center">
   <img src="https://cdn.hackaday.io/images/5831471669163737979.jpg" />
