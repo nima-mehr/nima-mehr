@@ -1,7 +1,7 @@
 ### Hi Guys!
 <div id="Header_and_info" align="left">
   - 🔭 I’m currently working on a Game and some Robots. </br></br>
-  - 🌱 I’m currently learning data science and ML. </br></br>
+  - 🌱 I’m currently learning ML. </br></br>
   - 📫 Reach me by email: n.mehr27@gmail.com </br></br>
   - 😄 Pronouns: He/Him </br>
 </br>
