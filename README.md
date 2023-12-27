@@ -5,8 +5,8 @@
   - 📫 Reach me by email: n.mehr27@gmail.com </br></br>
   - 😄 Pronouns: He/Him </br>
 </br>
-<div id="Middle" align="center">
-  <!-- <img src="https://cdn.hackaday.io/images/5831471669163737979.jpg" /> -->
+<div id="Skills" aling="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **nima-mehr/nima-mehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 -->
