@@ -3,8 +3,11 @@
   - 🔭 I’m currently working on my products. </br></br>
   - 🌱 I’m currently learning ML. </br></br>
 </br>
+  <div id="Stats" aling="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=nima-mehr)](https://git.io/streak-stats)
+  </div>div
   🪄 My Tech set:
-<div id="Skills" aling="left">
+<div id="Skills" aling="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
