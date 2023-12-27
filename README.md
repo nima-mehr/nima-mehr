@@ -4,8 +4,8 @@
   - 🌱 I’m currently learning ML. </br></br>
 </br>
   <div id="Stats" aling="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nima-mehr)](https://git.io/streak-stats)
-  </div>div
+  (https://streak-stats.demolab.com/?user=nima-mehr)](https://git.io/streak-stats)
+  </div>
   🪄 My Tech set:
 <div id="Skills" aling="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
