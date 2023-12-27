@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning ML. </br></br>
 </br>
   <div id="Stats" aling="center">
-  https://streak-stats.demolab.com/?user=nima-mehr)](https://git.io/streak-stats
+
   </div>
   🪄 My Tech set:
 <div id="Skills" aling="center">
