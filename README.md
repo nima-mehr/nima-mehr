@@ -4,7 +4,7 @@
   - 🌱 I’m currently learning ML. </br></br>
 </br>
   <div id="Stats" aling="center">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]() </div>
   </div>
   🪄 My Tech set:
 <div id="Skills" aling="center">
