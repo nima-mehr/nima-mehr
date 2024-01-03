@@ -1,12 +1,12 @@
 ### 🧙🏼 Hi Guys! My name is Nima
 <div id="Header_and_info" align="left">
   - 🔭 I’m currently working on my products. </br></br>
-  - 🌱 I’m currently learning ML. </br></br>
+ <!-- - 🌱 I’m currently learning ML. </br></br> -->
 </br>
   <div id="Stats" aling="center">
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]() -->
   </div>
-  🪄 My Tech set:
+  🪄 My Tech stack:
 <div id="Skills" aling="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
