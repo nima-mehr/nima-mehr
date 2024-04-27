@@ -1,4 +1,4 @@
-### 🧙🏼 Hi Guys! My name is Nima
+### 🧙🏼 Hi Guys! My name is Nima, I'm a full-stack developer and a data scientist.
 <div id="Header_and_info" align="left">
   🔭 I’m currently working on my products. </br></br>
  <!-- - 🌱 I’m currently learning ML. </br></br> -->
