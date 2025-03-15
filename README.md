@@ -1,16 +1,16 @@
 ### 🧙🏼 Hi Guys! My name is Nima, I'm a full-stack developer and a data scientist.
 <div id="Header_and_info" align="left">
-  🔭 I’m currently working on my products. </br></br>
+  🔭 I’m currently working on my products.
  <!-- - 🌱 I’m currently learning ML. </br></br> -->
-</br>
   <div id="Stats" aling="center">
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]() -->
   </div>
-  🪄 My Tech Stack 👇👇👇
+
   
   ![SnekSnekcoinGIF](https://github.com/user-attachments/assets/11940e75-f4de-4385-984d-984a759bc6ad)
 
 <div id="Skills" aling="center">
+    🪄 My Tech Stack 👇👇👇
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" title="Tauri" alt="Tauri" width="40" height="40"/>&nbsp;
@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kbnts" alt="Kbnts" width="40" height="40"/>&nbsp;
