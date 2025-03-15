@@ -6,7 +6,10 @@
   <div id="Stats" aling="center">
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]() -->
   </div>
-  🪄 My Tech Stack:
+  🪄 My Tech Stack 👇👇👇
+  
+  ![SnekSnekcoinGIF](https://github.com/user-attachments/assets/11940e75-f4de-4385-984d-984a759bc6ad)
+
 <div id="Skills" aling="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
