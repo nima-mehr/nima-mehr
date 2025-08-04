@@ -1,6 +1,5 @@
 ### Hi! My name is Nima, I'm a full-stack developer and a data scientist.
 <div id="Header_and_info" align="left">
-  📡🧬🧪 I’m currently working on some products.</br></br>
  <!-- - 🌱 I’m currently learning ML. </br></br> -->
   <div id="Stats" aling="center">
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-mehr&langs_count=5&theme=tokyonight)]() -->
