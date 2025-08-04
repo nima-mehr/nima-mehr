@@ -1,4 +1,4 @@
-### Hi! My name is Nima, I'm a full-stack developer and a data scientist.
+### Yo! I'm Nima — your friendly neighborhood code ninja, wrangling data and shipping full-stack magic.
 <div id="Header_and_info" align="left">
  <!-- - 🌱 I’m currently learning ML. </br></br> -->
   <div id="Stats" aling="center">
